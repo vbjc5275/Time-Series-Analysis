@@ -1,2 +1,2 @@
-# time-series
-## 專門存放關於時間序列的筆記，以單篇為主，並非完整專案。
+# Wafer
+## Time series classification with silicon wafer data set
